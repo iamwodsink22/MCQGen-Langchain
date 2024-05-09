@@ -1,0 +1,6 @@
+question,options,answer
+What is the primary advantage of Transformers over recurrent neural architectures like LSTM?,"a:They use a multi-layer perceptron for processing tokens.|b:They employ self-attention mechanisms for context understanding.|c:They do not rely on recurrent units, resulting in reduced training times.|d:They use a convolutional neural network for faster token processing.",c
+Which of the following best describes the input process for Transformers?,"a:Text is converted to tokens, and each token is embedded into a vector space.|b:Text is processed as a whole, and then divided into token embeddings.|c:Text is first converted to an image, then tokenized and embedded.|d:Text is pre-processed using a recurrent neural network, then tokenized and embedded.",a
+The Transformer architecture is based on which of these attention mechanisms?,a:Hard attention|b:Soft attention|c:Softmax-based attention|d:Visual attention,c
+Which of the following is NOT a use case for Transformers?,a:Natural Language Processing|b:Audio processing and generation|c:Image classification and object detection|d:Multi-modal data understanding and generation,c
+What are two prominent pre-trained systems that utilize the Transformer architecture?,a:BERT and GPT|b:Fast Weight Controller and LSTM|c:Softmax and Attention Mechanism|d:Computer Vision and Natural Language Understanding,a

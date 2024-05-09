@@ -1,0 +1,7 @@
+langchain
+PyPDF2
+streamlit
+python-dotenv
+cohere
+
+-e .
